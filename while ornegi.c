@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//1-30 arası çift sayıların çıktısınu veren kodlama örneği
+//1-30 arası çift sayıların çıktısını veren kodlama örneği
 
 int main() {
 	
